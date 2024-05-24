@@ -28,9 +28,5 @@ public class Operadores {
         simNao = numero1 > numero2;
 
         System.out.println("numero Um é maior que numero Dois? " + simNao);
-
-
-
-
     }
 }
