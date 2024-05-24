@@ -4,7 +4,7 @@ public class Operadores {
         String nomeUm = "RAFAELY";
         String nomeDois = "RAFAELY";
 
-        System.out.println(nomeUm == nomeDois);
+        System.out.println(nomeUm.equals(nomeDois));
         
             
         int numero1 = 1;
