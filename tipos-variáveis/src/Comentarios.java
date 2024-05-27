@@ -15,7 +15,7 @@ public int somaMultiplica (int n, int x, String m){
         r= n * x;
     }else{
         // se não soma mesmo
-        r = n + x
+        r = n + x;
     }
     return r;
 }
